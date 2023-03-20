@@ -6,5 +6,5 @@ Course: Your course
 
 ## Requirement Checklist
 
-[] Example Requirement 1
-[x] Example Requirement 2
+- [ ] Example Requirement 1
+- [x] Example Requirement 2
