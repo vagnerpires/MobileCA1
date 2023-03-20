@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Mobile Apps 1</string>
+    <string name="name_vagner_pires">Name: Vagner Pires</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="course_science_in_computing">Course: Science in Computing</string>
+    <string name="vagnerpires">vagnerpires</string>
+    <string name="education">EDUCATION</string>
+    <string name="skills">SKILLS</string>
+    <string name="achievements">ACHIEVEMENTS</string>
+    <string name="exit">EXIT</string>
+    <string name="c_2023_your_name_all_rights_reserved">(c) 2023 Your name. All rights reserved.</string>
 </resources>
